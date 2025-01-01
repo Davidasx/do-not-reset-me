@@ -1,2 +1,2 @@
 # do-not-reset-me
-I don't want connection reset.
+I'm playing a game. Do not reset my score.
