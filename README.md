@@ -1,1 +1,1 @@
-Connection reset. Please switch a branch.
+Connection reset by peer.
