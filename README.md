@@ -1,6 +1,4 @@
 # do-not-reset-me
-No more TCP Connection Reset!
-
 =============================BEGIN SECRET CODE=============================
 IyBTb2x2ZSBSU1QgYW5kIEROUyBwb2lzb25pbmcsIGFuZCB5b3Ugd2lsbCBhY2Nlc3MgOTklIG9m
 IHRoZSB3b3JsZHMncyB3ZWJzaXRlcy4KIyBHb29kYnllLCBSU1QuCiMgTm90ZTogQWNjb3JkaW5n
